@@ -75,7 +75,9 @@ Your signature is important in making sure our voices are heard and the decision
 that TSC makes reflects the opinion of Node.js community.
 
 You can sign this petition by opening a Pull Request and adding your name at the
-bottom of this README.md file or alternatively opening an issue.
+bottom of this README.md file, opening an issue, or on
+[change.org](https://www.change.org/p/no-ai-code-in-node-js-core) if you prefer
+to support us anonymously or don't have a github account.
 
 Pull Requests will be merged throughout the day, but might be merged in bulk to
 speed up the process.
